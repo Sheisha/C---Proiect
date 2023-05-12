@@ -1,0 +1,15 @@
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\bin\Debug\ProiectFinal.exe.config
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\bin\Debug\ProiectFinal.exe
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\bin\Debug\ProiectFinal.pdb
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.csproj.AssemblyReference.cache
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.csproj.SuggestedBindingRedirects.cache
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.Properties.Resources.resources
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.csproj.GenerateResource.cache
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.csproj.CoreCompileInputs.cache
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.exe
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.pdb
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.FStart.resources
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.Studenti.resources
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.Specializari.resources
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.FInscrieriAct.resources
+D:\LAPTOP\Desktop\DESKTOP\Ovidius\3 sem 1\TAP\ProiectFinal\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.Inscrieri.resources
